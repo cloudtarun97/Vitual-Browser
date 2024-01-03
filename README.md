@@ -15,6 +15,7 @@ install jenkins ,install docker , install sonarqube, install trivy
 
 -------Pipeline script-----------
 
+--------------------
 
 pipeline {
     agent any 
